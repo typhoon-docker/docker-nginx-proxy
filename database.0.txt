@@ -1,0 +1,4 @@
+_ 8080 false
+flask 8042 true
+php 3005 true
+nope 3044 false

@@ -1,0 +1,2 @@
+hostname=localhost
+loopback=host.docker.internal
