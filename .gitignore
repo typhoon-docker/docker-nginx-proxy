@@ -1,3 +1,9 @@
-proxy.conf
-hostname.txt
-database.txt
+certs/
+
+.DS_Store
+.DS_Store?
+._*
+
+*~
+*.swp
+*.swo
